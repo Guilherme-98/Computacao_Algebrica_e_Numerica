@@ -1,2 +1,2 @@
-# Computacão_Algébrica_e_Numérica
+# Computacão Algébrica e Numérica
 Atividades realizadas na disciplina
